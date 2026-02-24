@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://cruciblewong.github.io/PM4/sitemap.xml
+Sitemap: https://www.pm4highspeedsteel.com/sitemap.xml
